@@ -19,7 +19,7 @@
 ## Conclusions
 - The estimated multi-regression model is as follows:
 
-TotalUsers = 0.258 + 0.306 x clearWeather + 0.265 x year2019 + 0.223 x mistyWeather - 0.055 x summer - 0.086 x holiday - 0.088 x windspeed - 0.094 x winter - 0.344 x spring
+    TotalUsers = 0.258 + 0.306 x clearWeather + 0.265 x year2019 + 0.223 x mistyWeather - 0.055 x summer - 0.086 x holiday - 0.088 x windspeed - 0.094 x winter - 0.344 x spring
 
 - Demand of the bike is positively correlated with clear weather(strongly), mistyweather & with year 2019.
 - Demand of the bike is negatively affected by the season spring(strongly), winter, windspeed, holiday & summer season.
